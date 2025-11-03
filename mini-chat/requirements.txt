@@ -1,0 +1,8 @@
+transformers>=4.40.0
+datasets>=2.8.0
+tokenizers>=0.15.0
+sentencepiece
+deepspeed>=0.8.0
+accelerate
+torch>=2.0.0
+numpy
